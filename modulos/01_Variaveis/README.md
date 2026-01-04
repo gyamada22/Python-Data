@@ -23,6 +23,13 @@ Introduzir os fundamentos do Python, abordando **variáveis**, **tipos de dados*
 * Exercícios com estruturas sequenciais  
 
 ---
+## 🧠 Aprendizados Práticos
+
+### format
+- `print("Parabéns você vendeu {} unidades, e a meta foi de {}".format(vendido, meta))`
+
+### f-string
+- `print(f"Parabéns você vendeu {vendido} unidades, e a meta foi de {meta}")`
 
 ## 🎓 Estrutura das Aulas
 
