@@ -4,7 +4,7 @@ Repositório dedicado ao meu aprendizado prático em **Python**, com foco em **f
 
 ## 📊 Progresso Geral
 
-▰▰▱▱▱▱▱▱▱▱ **~20%**
+▰▰▰▰▰▰▰▰▰▰ **100% concluído** ✅
 
 ---
 
@@ -30,17 +30,17 @@ Repositório dedicado ao meu aprendizado prático em **Python**, com foco em **f
 
 | Módulo | Aulas | Status | Horas | Progresso |
 |------:|------:|--------|------:|----------|
-| 1. Mais sobre Variáveis | 7 | ⏳ Em andamento | 40min | 86% |
-| 2. If – Condições em Python | 9 | ⏳ Em andamento | 1h22 | 89% |
-| 3. Strings – Textos e Importância no Python | 10 | ⏳ Não iniciado | 1h27 | 0% |
-| 4. Listas Python – Métodos e Usos | 14 | ⏳ Não iniciado | 2h00 | 0% |
-| 5. For – Estrutura de Repetição | 12 | ⏳ Não iniciado | 1h31 | 0% |
-| 6. While – Estruturas de Repetição | 4 | ⏳ Não iniciado | 28min | 0% |
-| 7. Tuplas – Estrutura Imutável | 5 | ⏳ Não iniciado | 42min | 0% |
-| 8. Dicionários em Python | 10 | ⏳ Não iniciado | 1h24 | 0% |
-| 9. Iterables | 3 | ⏳ Não iniciado | 23min | 0% |
+| 1. Mais sobre Variáveis | 7 | ✅ Concluído | 40min | 100% |
+| 2. If – Condições em Python | 9 | ✅ Concluído | 1h22 | 100% |
+| 3. Strings – Textos e Importância no Python | 10 | ✅ Concluído | 1h27 | 100% |
+| 4. Listas Python – Métodos e Usos | 14 | ✅ Concluído | 2h00 | 100% |
+| 5. For – Estrutura de Repetição | 12 | ✅ Concluído | 1h31 | 100% |
+| 6. While – Estruturas de Repetição | 4 | ✅ Concluído | 28min | 100% |
+| 7. Tuplas – Estrutura Imutável | 5 | ✅ Concluído | 42min | 100% |
+| 8. Dicionários em Python | 10 | ✅ Concluído | 1h24 | 100% |
+| 9. Iterables | 3 | ✅ Concluído | 23min | 100% |
 
 ---
 
 **Total:** 74 aulas | **~10h57min**  
-**Progresso geral:** **~20% concluído** 🚀
+**Progresso geral:** **100% concluído** 🚀
