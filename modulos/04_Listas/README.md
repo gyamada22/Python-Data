@@ -16,19 +16,17 @@ Dominar o uso de **listas em Python**, compreendendo seus métodos, operações 
 
 ## 📌 Conteúdos Abordados
 
-* Criação e uso de listas  
-* Índices em listas e modificação de valores  
-* Busca de elementos e índices  
-* Adição e remoção de itens  
-* Tamanho da lista, maior e menor valor  
-* Junção e ordenação de listas  
-* Impressão e junção de elementos (`print` e `join`)  
-* Métodos adicionais de listas  
-* Alterações incrementais de variáveis  
-* Cópia e comparação de listas  
-* Listas aninhadas (lista de listas)  
-* Exercícios práticos com listas  
-
+* **Principais métodos de listas**:
+  - `insert(index, item)` — adiciona um item em um índice específico, sem substituir os existentes  
+  - `append(item)` — adiciona um item ao final da lista  
+  - `remove(item)` — remove o item especificado da lista  
+  - `pop(index)` — remove o item no índice especificado  
+  - `sort()` — ordena a lista alfabeticamente/numéricamente em ordem crescente (default)  
+  - `copy()` — cria uma cópia superficial da lista  
+  - `count(value)` — retorna o número de ocorrências de um valor na lista  
+* **List Comprehension**:
+  - `newlist = [expression for item in iterable if condition == True]`
+  - `newlist = [x for x in fruits if "a" in x]`
 ---
 
 ## 🎓 Estrutura das Aulas
@@ -59,3 +57,4 @@ Dominar o uso de **listas em Python**, compreendendo seus métodos, operações 
 * Compreensão de referências, cópias e igualdade  
 * Manipulação de estruturas de dados aninhadas  
 * Base sólida para estruturas mais avançadas em Python
+
