@@ -16,11 +16,14 @@ Compreender o uso de **tuplas em Python**, explorando suas características de *
 
 ## 📌 Conteúdos Abordados
 
-* Conceito e uso de tuplas  
-* Imutabilidade das tuplas  
-* Unpacking (desempacotamento)  
-* Lista de tuplas  
-* Exercícios práticos com tuplas  
+- **Definição:** Tuplas são coleções de itens **ordenadas** e **imutáveis**, usadas para armazenar múltiplos valores em uma única variável.  
+- **Sintaxe:** São escritas com **parênteses** `()`.
+- **Diferença para listas:** Listas são mutáveis; tuplas não.
+- **Características principais:**
+  - **Ordenadas:** os itens mantêm a ordem em que foram adicionados.  
+  - **Imutáveis:** não é possível alterar, adicionar ou remover itens depois de criados.  
+  - **Permitem duplicatas:** valores iguais podem aparecer mais de uma vez.  
+  - **Indexadas:** cada item possui um índice, começando em `[0]`.  
 
 ---
 
@@ -43,3 +46,4 @@ Compreender o uso de **tuplas em Python**, explorando suas características de *
 * Manipulação de listas contendo tuplas  
 * Melhor entendimento de estruturas de dados imutáveis  
 * Base sólida para organização de dados em Python
+
