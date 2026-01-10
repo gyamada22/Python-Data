@@ -16,6 +16,7 @@ Compreender o conceito de **iterables em Python**, explorando estruturas que pod
 
 ## 📌 Conteúdos Abordados
 
+### **Set**
 - `add(item)` — adiciona um item ao conjunto.  
 - `update(other_set)` — adiciona todos os itens de outro conjunto ao conjunto atual.  
 - `remove(item)` — remove um item específico do conjunto.  
@@ -39,4 +40,5 @@ Compreender o conceito de **iterables em Python**, explorando estruturas que pod
 * Uso adequado do `range` em laços de repetição  
 * Manipulação básica de conjuntos (`set`)  
 * Base sólida para estruturas iteráveis em Python
+
 
