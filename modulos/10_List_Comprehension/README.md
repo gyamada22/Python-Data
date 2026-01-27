@@ -1,4 +1,4 @@
-# 🐍 Módulo 9 — List Comprehension
+# 🐍 Módulo 10 — List Comprehension
 
 ## ✅ Status: CONCLUÍDO
 
