@@ -41,8 +41,10 @@ Repositório dedicado ao meu aprendizado prático em **Python**, com foco em **f
 | 7. Tuplas – Estrutura Imutável | 5 | ✅ Concluído | 42min | 100% |
 | 8. Dicionários em Python | 10 | ✅ Concluído | 1h24 | 100% |
 | 9. Iterables | 3 | ✅ Concluído | 23min | 100% |
+| 10. List Comprehension | 8 | ✅ Concluído | 56min31s | 100% |
 
 ---
 
-**Total:** 74 aulas | **~10h57min**  
+**Total:** 82 aulas | **~11h53min**  
 **Progresso geral:** **100% concluído** 🚀
+
