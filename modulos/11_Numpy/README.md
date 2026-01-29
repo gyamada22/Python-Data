@@ -2,9 +2,9 @@
 
 ## ✅ Status: CONCLUÍDO
 
-* **Aulas:** 13/13  
-* **Duração Total:** ~3h37min  
-* **Progresso:** 100%
+- **Aulas:** 13/13  
+- **Duração Total:** ~3h37min  
+- **Progresso:** 100%
 
 ---
 
@@ -16,31 +16,70 @@ Dominar o uso do **NumPy** como base para Análise de Dados em Python, compreend
 
 ## 📌 Conteúdos Abordados
 
-* Diferença entre Arrays NumPy e Listas Python  
-* Criação e manipulação de arrays  
-* Operações matemáticas e estatísticas:
-  - `np.sum()` → soma dos elementos  
-  - `np.mean()` → média  
-  - `np.max()` / `np.min()` → máximo e mínimo  
-  - `np.argmax()` → índice do maior valor  
-  - `np.median()` → mediana  
-  - `np.percentile()` → percentis  
-  - `np.var()` → variância  
-  - `np.std()` → desvio padrão  
-* Ordenação de dados:
-  - `np.sort()`  
-* Operações matriciais:
-  - `np.dot()`  
-* Condições e filtros:
-  - `np.where()`  
-  - Uso de operadores lógicos:
-    - `&` = “e”
-    - `|` = “ou”  
-* Manipulação estrutural:
-  - `np.unique()` → valores únicos  
-  - `np.reshape()` → reorganização da forma do array  
-* Geração de números aleatórios e estatística aplicada  
-* Uso prático de NumPy em exercícios de análise de dados  
+### 🔹 Arrays NumPy
+- Diferença entre **Arrays NumPy** e **Listas Python**
+- Criação e manipulação de arrays
+- Tipos de dados (`dtype`)
+- Indexação e slicing
+
+---
+
+### 🔹 Operações Matemáticas e Estatísticas
+- `np.sum()` → soma dos elementos  
+- `np.mean()` → média  
+- `np.max()` / `np.min()` → máximo e mínimo  
+- `np.argmax()` → índice do maior valor  
+- `np.median()` → mediana  
+- `np.percentile()` → percentis  
+- `np.var()` → variância  
+- `np.std()` → desvio padrão  
+
+---
+
+### 🔹 Ordenação de Dados
+- `np.sort()`  
+
+---
+
+### 🔹 Operações Matriciais
+- `np.dot()` → produto escalar / multiplicação matricial  
+
+---
+
+### 🔹 Condições e Filtros
+- `np.where()`  
+- Operadores lógicos:
+  - `&` → **e**
+  - `|` → **ou**
+
+---
+
+### 🔹 Manipulação Estrutural de Arrays
+- `np.reshape()` → reorganização da forma do array  
+- `np.unique()` → valores únicos  
+
+---
+
+### 🔹 Empilhamento e Concatenação de Arrays
+- `np.concatenate()` → concatenação de arrays em um eixo específico  
+- `np.stack()` → empilha arrays criando um novo eixo  
+- `np.hstack()` → empilhamento horizontal (colunas)  
+- `np.vstack()` → empilhamento vertical (linhas)  
+- `np.dstack()` → empilhamento em profundidade (terceira dimensão)  
+
+---
+
+### 🔹 Números Aleatórios e Estatística Aplicada
+- Geração de números aleatórios
+- Distribuições estatísticas
+- Simulações e análises com dados artificiais
+
+---
+
+### 🔹 Aplicações Práticas
+- Uso prático do NumPy em exercícios de análise de dados
+- Manipulação eficiente de grandes volumes de dados
+- Operações vetorizadas para alta performance
 
 ---
 
@@ -66,14 +105,10 @@ Dominar o uso do **NumPy** como base para Análise de Dados em Python, compreend
 
 ## 🚀 Resultado
 
-* Domínio da base do NumPy para análise de dados  
-* Capacidade de realizar cálculos estatísticos de forma vetorizada  
-* Maior eficiência e performance em comparação a listas Python  
-* Facilidade para filtrar, transformar e reorganizar grandes volumes de dados  
-* Base sólida para bibliotecas como Pandas, Scikit-learn e Matplotlib  
+- Domínio sólido do **NumPy** para análise de dados  
+- Capacidade de realizar cálculos estatísticos de forma vetorizada  
+- Maior eficiência e performance em comparação a listas Python  
+- Facilidade para filtrar, transformar, empilhar e reorganizar dados  
+- Base essencial para **Pandas**, **Scikit-learn** e **Matplotlib**
 
 ---
-
-## 📝 Feedback do Módulo
-
-Este módulo consolidou o NumPy como a fundação para qualquer trabalho sério com dados em Python. O entendimento profundo de arrays, operações vetorizadas e funções estatísticas trouxe uma visão muito mais profissional e eficiente para manipulação de dados, preparando diretamente para o uso avançado de Pandas e para aplicações reais em Data Analytics e Data Science.
