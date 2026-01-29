@@ -1,4 +1,4 @@
-(Opcional) Numpy - a base de Python para Análise de Dados
+Numpy - a base de Python para Análise de Dados
 1. Orientações - Assista antes de começar
 01:35
 2. Arrays Numpy vs Listas
